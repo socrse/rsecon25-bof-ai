@@ -1,88 +1,112 @@
-# RSE perspectives on AI code generation tools
+![Screenshot 2025-09-03 at 5.09.39 PM](https://hackmd.io/_uploads/rJWAd8Iclx.png)
+
+# RSE perspectives on AI in the workplace (Part II)
 
 [RSECon25 Session 107](https://virtual.oxfordabstracts.com/event/75166/submission/107) (Part II), \
-Wednesday 10th September 2025, 13:30-15:00, \
+Wednesday 10th September 2025, 13:15-15:00, \
 University of Warwick, OC0.02.
 
+### Contents
 
-- [Repository](https://github.com/ukceh-rse/rsecon25-bof-ai) (all pre- and post-conference work)
-- [Discussions](https://github.com/ukceh-rse/rsecon25-bof-ai/discussions) - continue the discussion after the conference.
-- [Zoom / Teams link]()
-- [Point of contact]() if you need to raise an issue about the session. <!-- Who is monitoring? -->
+- [Session information](#Session-information)
+- [Attendees](#Attendees)
+- [Drafting space](#Drafting-space)
+- [Notes from whole group discussions](#Notes-from-whole-group-discussions)
+- [Wrapping up](#Wrapping-up)
 
+### Useful links
+
+- [HackMD from morning session](https://hackmd.io/@jmarshrossney/BJy9adlKxx)
+- [Zoom meeting]() ==TODO==
+- [RSECon Code of Conduct](https://rsecon25.society-rse.org/conference-policies/code-of-conduct/)
+- [GitHub discussions](https://github.com/socrse/rsecon25-bof-ai/discussions)
+
+## Session information
 
 ### Aims
 
-A brief summary of what this session is intended to achieve. (Reword this:)
+1. Write a first draft of a position statement on the **UK RSE community's position on AI tools in the RSE workplace**, drawing on the [discussions from the morning session](https://hackmd.io/@jmarshrossney/BJy9adlKxx).
+2. Identify additional resources that could help RSEs navigate this new terrain, and plan for future co-creation activities.
 
-- Review and synthesise the results of the first part of this session.
-- Draft a position statement that identifies key areas of consensus and disagreement within the UK RSE community.
-- Identify areas where more research and/or engagement with the community is needed.
-- Identify areas where there is a significant need for quality guidance on use of GenAI in RSE.
-
-
-### Overview
-
+### Schedule
 
 | Start time | Duration (mins) | Description |
 | --- | --- | --- |
-| 13:15 | 10 | Introductions & overview of the agenda. |
-| 13:25 | 30 | First breakout / drafting session. |
-| 13:55 | 15 | Whole group discussion. |
-| 14:10 | 30 | Second breakout / drafting session |
-| 14:40 | 5  | Closing remarks |
+| 13:15 | 15 | Introductions & overview of the agenda |
+| 13:30 | 30 | First drafting session |
+| 14:00 | 15 | Whole group discussion |
+| 14:15 | 30 | Second drafting session | 
+| 14:45 | 15 | Whole group discussion |
 
-> [!NOTE] 
-> Please use the whole-group discussion to raise any issues/suggestions about the document structure/content, or the approach we are taking.
+Please use the whole-group discussion between the two drafting sessions to raise any issues/suggestions about the document structure/content, or the approach we are taking.
+
+### ==Point of contact (todo)==
+
+If you want to ask a question or raise an issue _during the session_, please ...
+
+**Sandra Gesing** - Executive Director of the US Research Software Engineer Association - 
+<!-- Sandra will monitor during and immediately after the session, then will hand of monitoring to Steve. We'll share what comes in, of course. -->
+
+### How to use this document
+
+This HackMD document is a shared space to take notes during the discussion sessions. Click the **Edit** button to open a split screen and edit the markdown content (left panel). 
+
+> [!IMPORTANT] 
+> This is a **shared** document. Any edits you make will immediately be visible to the rest of the group. Please be considerate, and do not delete anything written by someone else!
+> 
+> If in any doubt, please review the [RSECon Code of Conduct](https://rsecon25.society-rse.org/conference-policies/code-of-conduct/).
 
 
-### Attendees
+Please add your name, institution and, optionally, email address, in the [Attendees](#Attendees) section below.
 
-<!--  This could be replaced with a poll or some kind. We want to do 2 things: (a) record some basic information about attendees (perhaps including role/position) for reporting purposes, (b) get emails for contacting those who wish to be contacted. For (a), we could have a Jisc or mentimeter survey, and a physical piece of paper being passed around for anyone who doesn't want to / can't fill that out. -->
+## Attendees
 
 > [!NOTE]
-> If you would like to receive receive a copy of the draft position statement, to sign and/or give feedback, please provide us with an email address.
+> Add your email address if you would like to receive updates after RSECon. We will not share it for any other purposes!
 
-**Organisers:**
+- _Name, Institution, (email)_
+- Joe Marsh Rossney, UK Centre for Ecology & Hydrology, 
+- Arfon Smith, Schmidt Sciences, 
+- Sandra Gesing, United States Research Software Engineer Association
+- James Hetherington, University College London
+- 
 
-- Joe Marsh Rossney (UKCEH) joemar@ceh.ac.uk
-- Arfon Smith (Schmidt Sciences)
-- Sandra Gesing (US RSE Association)
-- James Hetherington (UCL)
-- Matt Dalle Piagge (UKCEH)
-- Robin Long (UKCEH)
-- Jo Walsh (UKCEH)
-- Matthew Coole (UKCEH)
+## Drafting space
 
+<!-- 
+This summarises the consensus position of the RSE community as represented by attendees of RSECon25, with respect to the use of AI-based tools in research software.
 
-**Attendees:**
+I anticipate this being fairly high-level and not domain-specific, but it must be _RSE-specific_, and more developed than what's currently out there.
 
-- _Name (Institution) email_
+It should address potential benefits and risks, separating these by time horizon (current/near future/far future), degree of certainty etc.
 
+It should ideally paint a clear picture of a future in which RSE is thriving due to effective policies, practices and cultural norms regarding AI.
 
-## Breakout discussion session \#1
+It may be appropriate to highlight points of _dissensus_, framed as "open questions".
 
-### Topic A
+Q: how do we determine consensus?
+-->
 
-[Link to dedicated HackMD doc]()
-
-<!-- Create one HackMD document _per breakout room_, and then copy-paste the contents here at the end. -->
-
-
-## Closing
-
-- Continue the discussion on the [GitHub discussion threads]()
-- We will share the draft document (via email and the GitHub forum <!-- ?? --> ) for feedback in a few weeks.
+<br>
 
 
-| Milestone | Target date | 
+## Notes from whole group discussions
+
+## Wrapping up
+
+How to participate after the session ends:
+
+- Continue the discussion on the [GitHub discussion threads](https://github.com/socrse/rsecon25-bof-ai/discussions).
+- We will share draft documents (via email and the GitHub forum) for feedback in a few weeks.
+
+> [!TIP] Reminder
+>  Add your email to the list of attendees in this document if you would like to be emailed directly with the draft/final position statement!
+
+| Milestone | Target | 
 | --- | --- |
-| Share draft position statement for feedback. | End September |
-| Share final document for signing. | End October |
-| Publish document. | Mid-November |
+| Share draft position statement for feedback. | October |
+| Share final document for signing. | November|
+| Publish document. | December |
 
-<!-- Do Sandra and/or Arfon want to talk about the bigger picture here? -->
-
-**Reminder:** Add your email to the list of attendees in this document if you would like to be emailed directly with the draft/final position statement!
 
 ==Thank you so much for attending!==
