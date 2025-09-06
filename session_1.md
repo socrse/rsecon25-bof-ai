@@ -60,7 +60,7 @@ University of Warwick, OC0.02.
 
 If you want to ask a question or raise an issue _during the session_, please ...
 
-**Sandra Gesing** - Executive Director of the US Research Software Engineer Association - sandra@usrse.org 
+**Sandra Gesing** - Executive Director of the US Research Software Engineer Association -
 <!-- Sandra will monitor during and immediately after the session, then will hand of monitoring to Steve. We'll share what comes in, of course. -->
 
 
@@ -83,8 +83,8 @@ Please add your name, institution and, optionally, email address, in the [Attend
 > Add your email address if you would like to receive updates after RSECon. We will not share it for any other purposes!
 
 - _Name, Institution, (email)_
-- Joe Marsh Rossney, UK Centre for Ecology & Hydrology, joemar@ceh.ac.uk
-- Arfon Smith, Schmidt Sciences, arfon@schmidtsciences.org
+- Joe Marsh Rossney, UK Centre for Ecology & Hydrology, 
+- Arfon Smith, Schmidt Sciences, 
 - Sandra Gesing, United States Research Software Engineer Association
 - James Hetherington, University College London
 - 
