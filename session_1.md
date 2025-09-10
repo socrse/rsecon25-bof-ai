@@ -9,7 +9,6 @@ University of Warwick, OC0.02.
 ### Contents
 
 - [Session information](#Session-information)
-- [Attendees](#Attendees)
 - [Breakout discussions \#1](#Breakout-discussions-\#1)
 - [Instructions for breakout session \#2](Instructions-for-breakout-session-\#2)
 - [Breakout discussions \#2](#Breakout-discussions-\#2)
@@ -22,20 +21,32 @@ University of Warwick, OC0.02.
 - [Slides](https://docs.google.com/presentation/d/1xrblFh63nOs42EzWRiwJdkPbIIzlY9ECJqD04zlPbVk/edit?usp=sharing)
 - [RSECon Code of Conduct](https://rsecon25.society-rse.org/conference-policies/code-of-conduct/)
 - [GitHub discussions](https://github.com/socrse/rsecon25-bof-ai/discussions)
-- ==Mentimeter poll==
+- [Mentimeter poll](https://www.mentimeter.com/app/presentation/alrhr6abkn8nb49otjbh8qes2qxdcn26/edit?source=share-modal)
 - ==USRSE/ADSA/Schmidt survey==
+
+### How to use this document
+
+This HackMD document is a shared space to take notes during the discussion sessions. Click the **Edit** button at the top of this document to open a split screen and edit the markdown content (the left panel).
+
+![image](https://hackmd.io/_uploads/S1JRLsRcxx.png)
+
+
+> [!IMPORTANT] 
+> This is a **shared** document. Any edits you make will immediately be visible to the rest of the group. Please be considerate, and do not delete anything written by someone else!
+> 
+> If in any doubt, please review the [RSECon Code of Conduct](https://rsecon25.society-rse.org/conference-policies/code-of-conduct/).
 
 
 ## Session information
 
 ### Aims
 
-1. Have a constructive discussion as a community about AI in our workplace --- listen to and learn from each other.
-2. Gather experiences and perspectives of RSEs to provide the evidence base for a position statement on the use of GenAI tools in RSE.
+1. Have a constructive discussion as a community about AI in our workplace -- listen to and learn from each other.
+2. Gather experiences and perspectives of RSEs to provide the evidence base for a position statement on the use of AI tools in RSE.
 3. Identify additional resources that could help RSEs navigate this new terrain, and plan for future co-creation activities.
 
 
-> [!Note] Why write a position statement?
+> [!NOTE] Why write a position statement?
 > We want to use this opportunity to create something useful that outlives this conference, and that individual RSEs can draw on in a range of situations. 
 > We feel that a community-written position statement that foregrounds RSE voices is a useful contribution to make at this time. 
 
@@ -51,28 +62,12 @@ University of Warwick, OC0.02.
 | 11:35 | 25 | Second breakout session. |
 | 12:00 | 15 | Groups share summaries + wrap-up. |
 
-### Point of contact
 
-If you want to ask a question or raise an issue _during the session_, please speak with any of the organisers, or send a message on the Zoom chat.
+### Attendees
 
+==Please add your name, institution and, optionally, email address.==
 
-### How to use this document
-
-This HackMD document is a shared space to take notes during the discussion sessions. Click the **Edit** button to open a split screen and edit the markdown content (left panel). 
-
-> [!IMPORTANT] 
-> This is a **shared** document. Any edits you make will immediately be visible to the rest of the group. Please be considerate, and do not delete anything written by someone else!
-> 
-> If in any doubt, please review the [RSECon Code of Conduct](https://rsecon25.society-rse.org/conference-policies/code-of-conduct/).
-
-
-Please add your name, institution and, optionally, email address, in the [Attendees](#Attendees) section below.
-
-
-## Attendees
-
-> [!NOTE]
-> Add your email address if you would like to receive updates after RSECon. We will not share it for any other purposes!
+Add your email address if you would like to receive updates after RSECon. We will not share it for any other purposes!
 
 - _Name, Institution, (email)_
 - Joe Marsh Rossney, UK Centre for Ecology & Hydrology,
@@ -92,22 +87,21 @@ We simply ask that you try to form breakout groups with people who you don't alr
 > [!IMPORTANT] 
 > Each group should appoint a **chairperson** whose is responsible for making sure that everyone gets a fair chance to speak, and for summarising the key points to the rest of the group.
 
-Once in your groups, introduce yourselves **briefly** before starting the discussion.
+Once in your groups:
 
-1. Nominate a chairperson and note-taker.
+1. Nominate a chairperson and note-taker (optional, but recommended).
 2. Briefly introduce yourselves
-3. Start the discussion
+3. Start discussing
 
-You can discuss anything you like, but feel free to use the following questions as prompts.
+### Discussion prompts
+
+**You can discuss anything you like**, but feel free to use the following questions as prompts.
 
 - Are you currently using AI tools (e.g., ChatGPT, Copilot, Claude) in your work? If so, how?
 - What opportunities do you see for generative AI to enhance or transform the work of RSEs?
 - What concerns, risks, or downsides do you anticipate with generative AI adoption in your work or in the broader RSE community?
 - What best practices, guidance, or advocacy would be valuable to you and/or your organization with respect to the use of generative AI in the RSE context? 
 - Does your organisation have any policies, guidelines or cultural norms around the use of AI tools for programming?
-
-You might also decide to appoint a dedicated note-taker, but it's up to you.
-
 
 > [!TIP]
 > Try not to get overly hung up on areas of disagreement -- there will be some, *and that's ok!* If the discussion starts feeling less constructive, make a note of where there were disagreements and move on.
@@ -120,8 +114,6 @@ Group members:
 
 _Delete this line and replace with notes from the discussion._
 
-<br>
-
 
 ### Group 2 Notes
 
@@ -131,16 +123,64 @@ Group members:
 
 _Delete this line and replace with notes from the discussion._
 
-<br>
+### Group 3 Notes
 
-_(create more groups as needed)_
+Chair: 
+Note taker:
+Group members:
+
+_Delete this line and replace with notes from the discussion._
+
+
+### Group 4 Notes
+
+Chair: 
+Note taker:
+Group members:
+
+_Delete this line and replace with notes from the discussion._
+
+
+### Group 5 Notes
+
+Chair: 
+Note taker:
+Group members:
+
+_Delete this line and replace with notes from the discussion._
+
+### Group 6 Notes
+
+Chair: 
+Note taker:
+Group members:
+
+_Delete this line and replace with notes from the discussion._
+
+### Group 7 Notes
+
+Chair: 
+Note taker:
+Group members:
+
+_Delete this line and replace with notes from the discussion._
+
+### Group 8 Notes
+
+Chair: 
+Note taker:
+Group members:
+
+_Delete this line and replace with notes from the discussion._
+
+_(create or delete groups as needed)_
 
 
 ## Instructions for breakout session \#2
 
 In the second breakout session, each group will focus on a specific topic to discuss in detail.
 
-The intended purpose of these discussions is to produce an evidence base of RSE perspectives towards AI tools in the workplace, which can be built upon in the afternoon session (position statement drafting).
+The intended purpose of these discussions is to produce an evidence base of RSE perspectives towards AI tools in the workplace, which can be built upon in the afternoon session.
 
 ### How to propose a breakout discussion topic
 
@@ -149,10 +189,10 @@ To get things moving quickly, we have "pre-loaded" a set of topics and question 
 1. Scroll down to [Breakout group topics](#Breakout-group-topics).
 2. Before adding a new topic, take a look at the existing topics:
     - Is your idea already listed?
-    - Can your idea posed as a question under an existing topic?
+    - Can your idea be posed as a question under an existing topic?
 4. Add new topics and questions in the same format as the pre-loaded ones (topics are h4 \#\#\#\# headers, questions are list items).
 
-### How to join a breakout group
+### How to choose/join a breakout group
 
 1. Scroll down to [Breakout group topics](#Breakout-group-topics).
 2. Choose **one** topic you'd most like to discuss in this session, and add either an `x` or `o` where it says ==Vote here:== 
@@ -163,7 +203,7 @@ To get things moving quickly, we have "pre-loaded" a set of topics and question 
     - Online attendees: we will create breakout groups on Zoom.
 
 > [!WARNING]
-> Where there are not enough people in a group, we may ask you to change group, so please have a second choice in mind!
+> Where there are not enough people in a group, we may ask you to change group, so _please have a second choice in mind!_
 >  If there are too many people in a group, we may ask you to form two separate groups. 
 
 
@@ -205,7 +245,7 @@ To get things moving quickly, we have "pre-loaded" a set of topics and question 
 
 - How does AI impact existing cultural practices (things we do) and values (things that ought to be) in RSE?
 - Conversely, how do existing cultural practices and values impede or otherwise influence the adoption of AI tools?
-- How should _we_ talk about use of AI tools among ourselves, our broader non-RSE communities, and in (software) publications?
+- How should we talk about use of AI tools among ourselves? Among broader non-RSE communities? In (software) publications?
 - Can we reach consensus on principles regarding transparency and reporting? Can we codify this somehow? E.g. some rules of thumb, or a collection of vignettes to illustrate good practice?
 
 ==Vote here:==
@@ -224,12 +264,14 @@ To get things moving quickly, we have "pre-loaded" a set of topics and question 
 
 #### Looking to the future (utopias and dystopias)
 
-- What does the utopia look like for RSEs? What is our destination if we get everything right? How widely is this vision shared among our community?
+- What does the utopia look like for RSEs? What is our destination if we get everything right? Is this a utopia for everyone, or just some of us?
 - What does the dystopia look like? What happens if we get things wrong?
-- Do any of our principles or practices change in a world where AI tools are 'self-trained' using reinforcement learning?
+- Do any of our principles or practices change if AI tools are largely 'self-trained' on their own generated code?
 
 ==Vote here:==
 
+
+_(Add more topics as required.)_
 
 ## Breakout discussions \#2
 
@@ -259,7 +301,8 @@ How to participate after the session ends:
 - **Part II (drafting of position statement) begins at 13:15 today.**
 - Continue the discussion on the [GitHub discussion threads](https://github.com/socrse/rsecon25-bof-ai/discussions).
 - We will share draft documents (via email and the GitHub forum) for feedback in a few weeks.
-- Stay in touch: contact any/all of the organisers 
+- Stay in touch: contact any/all of the organisers ().
+
 
 | Milestone | Target | 
 | --- | --- |
