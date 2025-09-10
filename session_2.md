@@ -9,7 +9,6 @@ University of Warwick, OC0.02.
 ### Contents
 
 - [Session information](#Session-information)
-- [Attendees](#Attendees)
 - [Drafting space](#Drafting-space)
 - [Notes from whole group discussions](#Notes-from-whole-group-discussions)
 - [Wrapping up](#Wrapping-up)
@@ -17,9 +16,20 @@ University of Warwick, OC0.02.
 ### Useful links
 
 - [HackMD from morning session](https://hackmd.io/@jmarshrossney/BJy9adlKxx)
-- [Zoom meeting]() ==TODO==
+- ==Zoom meeting==
 - [RSECon Code of Conduct](https://rsecon25.society-rse.org/conference-policies/code-of-conduct/)
 - [GitHub discussions](https://github.com/socrse/rsecon25-bof-ai/discussions)
+
+### How to use this document
+
+This HackMD document is a shared space to take notes during the discussion sessions. Click the **Edit** button at the top of this document to open a split screen and edit the markdown content (the left panel).
+
+![image](https://hackmd.io/_uploads/S1JRLsRcxx.png)
+
+> [!IMPORTANT] 
+> This is a **shared** document. Any edits you make will immediately be visible to the rest of the group. Please be considerate, and do not delete anything written by someone else!
+> 
+> If in any doubt, please review the [RSECon Code of Conduct](https://rsecon25.society-rse.org/conference-policies/code-of-conduct/).
 
 ## Session information
 
@@ -40,29 +50,11 @@ University of Warwick, OC0.02.
 
 Please use the whole-group discussion between the two drafting sessions to raise any issues/suggestions about the document structure/content, or the approach we are taking.
 
-### ==Point of contact (todo)==
+### Attendees
 
-If you want to ask a question or raise an issue _during the session_, please ...
+Please add your name, institution and, optionally, email address.
 
-**Sandra Gesing** - Executive Director of the US Research Software Engineer Association - 
-<!-- Sandra will monitor during and immediately after the session, then will hand of monitoring to Steve. We'll share what comes in, of course. -->
-
-### How to use this document
-
-This HackMD document is a shared space to take notes during the discussion sessions. Click the **Edit** button to open a split screen and edit the markdown content (left panel). 
-
-> [!IMPORTANT] 
-> This is a **shared** document. Any edits you make will immediately be visible to the rest of the group. Please be considerate, and do not delete anything written by someone else!
-> 
-> If in any doubt, please review the [RSECon Code of Conduct](https://rsecon25.society-rse.org/conference-policies/code-of-conduct/).
-
-
-Please add your name, institution and, optionally, email address, in the [Attendees](#Attendees) section below.
-
-## Attendees
-
-> [!NOTE]
-> Add your email address if you would like to receive updates after RSECon. We will not share it for any other purposes!
+Add your email address if you would like to receive updates after RSECon. We will not share it for any other purposes!
 
 - _Name, Institution, (email)_
 - Joe Marsh Rossney, UK Centre for Ecology & Hydrology, 
@@ -92,15 +84,15 @@ Q: how do we determine consensus?
 
 ## Notes from whole group discussions
 
+<br>
+
 ## Wrapping up
 
 How to participate after the session ends:
 
 - Continue the discussion on the [GitHub discussion threads](https://github.com/socrse/rsecon25-bof-ai/discussions).
 - We will share draft documents (via email and the GitHub forum) for feedback in a few weeks.
-
-> [!TIP] Reminder
->  Add your email to the list of attendees in this document if you would like to be emailed directly with the draft/final position statement!
+- Stay in touch: contact any/all of the organisers ().
 
 | Milestone | Target | 
 | --- | --- |
@@ -108,5 +100,10 @@ How to participate after the session ends:
 | Share final document for signing. | November|
 | Publish document. | December |
 
+> [!TIP] Reminder
+>  Add your email to the list of attendees in this document (or the Part I document) if you would like to be emailed directly with the draft/final position statement!
+
+> [!NOTE]
+> If you are keen to be directly involved in the writing after this session, please speak to one of the organisers!
 
 ==Thank you so much for attending!==
